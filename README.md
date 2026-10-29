@@ -1,100 +1,135 @@
 ![logo-we-got-hacked](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/logo-we-got-hacked.png)
-We Got Hacked é um jogo de simulação e treinamento desenvolvido pela GT-IR, Grupo de Trabalho do Programa Hackers do Bem e financiado pela [RNP](https://www.rnp.br/) (Rede Nacional de Ensino e Pesquisa). Para o desenvolvimento do jogo, o GT-IR atua em parceria com o [Atomic Rocket Entertainment](https://br.linkedin.com/company/atomic-rocket-entertainment), estúdio experimental de jogos da UNISINOS. O projeto é voltado para estudantes e profissionais de cibersegurança, o jogo foi dividido em três capítulos que simulam situações reais e desafiadoras da área, como ataques hackers, vazamentos de dados e outros incidentes críticos. O objetivo é proporcionar uma experiência prática e imersiva, ajudando os jogadores a desenvolverem habilidades essenciais para lidar com ameaças digitais..
+«We Got Hacked» es un juego de simulación y formación desarrollado por GT-IR, el Grupo de Trabajo del Programa “Hackers del bien”, el cual es financiado por [RNP](https://www.rnp.br/) (Red Nacional de Enseñanza e Investigación)[. Para el desarrollo del juego, el GT-IR colabora con el[Atomic Rocket Entertainment](https://br.linkedin.com/company/atomic-rocket-entertainment), Estudio experimental de videojuegos de la UNISINOS. El proyecto está dirigido a estudiantes y profesionales de la ciberseguridad; el juego se ha dividido en tres capítulos que simulan situaciones reales y complejas del sector, como ataques de hakers,filtraciones de datos y otros incidentes críticos. El objetivo es ofrecer una experiencia práctica e inmersiva, ayudando a los jugadores a desarrollar habilidades esenciales para lidiar con las amenazas digitales.
+
 
 ![Petrolinhos](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Petrolinhos.png)
 
-Objetivo do Projeto
+
+Objetivo del proyecto
 -------
-O objetivo de We Got Hacked é gamificar situações reais de cibersegurança, oferecendo uma forma dinâmica e interativa de desenvolver as competências de estudantes e profissionais da área. Cada capítulo proporciona uma experiência prática e imersiva, permitindo que os jogadores aprimorem suas habilidades em um ambiente seguro e controlado.
+El objetivo de «We Got Hacked» es gamificar situaciones reales de ciberseguridad, ofreciendo una forma dinámica e interactiva de desarrollar las competencias de estudiantes y profesionales del sector. Cada capítulo ofrece una experiencia práctica e inmersiva, lo que permite a los jugadores mejorar sus habilidades en un entorno seguro y controlado.
 
-A proposta surge como resposta à crescente falta de profissionais qualificados para atuar em times de resposta a incidentes. Por meio de uma abordagem lúdica e acessível, We Got Hacked busca reduzir essa lacuna de capacitação, tornando o aprendizado de cibersegurança mais atraente e engajante. Assim, o jogo contribui para a formação de novos talentos e o fortalecimento do ecossistema nacional de segurança digital.
 
-Modelo de Negócio
+La propuesta surge como respuesta a la creciente falta de profesionales cualificados para formar parte de equipos de respuesta a incidentes. A través de un enfoque lúdico y accesible, «We Got Hacked» busca reducir esta brecha de formación, haciendo que el aprendizaje de la ciberseguridad resulte más atractivo y motivador. De este modo, el juego contribuye a la formación de nuevos talentos y al fortalecimiento del ecosistema nacional de seguridad digital.
+
+
+Modelo de negocio
 -------
-Nossa proposta de negócio baseia-se em um modelo escalável, voltado tanto para instituições quanto para empresas de tecnologia. O jogo será oferecido como um serviço (SaaS), com mensalidades ajustadas conforme o número de jogadores, permitindo que escolas, universidades e organizações utilizem a plataforma para capacitação contínua de suas equipes. Além disso, o projeto prevê a inserção de Product Placement, integrando ferramentas e soluções reais de fabricantes ao enredo do jogo, fortalecendo parcerias estratégicas e proporcionando experiências autênticas e educativas aos jogadores.
+Nuestra propuesta de negocio se basa en un modelo escalable, dirigido tanto a instituciones como a empresas tecnológicas. El juego se ofrecerá como un servicio (SaaS), con cuotas mensuales que se ajustarán en función del número de jugadores, lo que permitirá a colegios, universidades y organizaciones utilizar la plataforma para la capacitación continua de sus equipos. Además, el proyecto prevé la inclusión de «product placement», integrando herramientas y soluciones reales de los fabricantes en la trama del juego, lo que refuerza las alianzas estratégicas y ofrece experiencias auténticas y educativas a los jugadores.
 
-Conheça as Empresas e Entidades
+
+Conoce las empresas y entidades
 -------
 ![Entidades](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/EntitiesNew.png)
 
-**C.A.F.E** é uma empresa do setor de cibersegurança fundada em 2015 por um pequeno grupo de ex-engenheiros da área. Mesmo nos primeiros anos de atuação, tornou-se referência em segurança corporativa, com foco na proteção de grandes empresas, indústrias e corporações altamente visadas.
 
-**PetroCais** é uma empresa do setor petrolífero fundada em 1982 por Pedro Corpellius, um visionário patriota determinado a explorar, produzir, refinar e comercializar petróleo e seus derivados no Brasil. Sua criação foi motivada pelo desejo de fortalecer a indústria energética nacional e tornar o país autossuficiente em suas demandas energéticas.
+**C.A.F.E** es una empresa del sector de la ciberseguridad fundada en 2015 por un pequeño grupo de antiguos ingenieros del sector. Ya en sus primeros años de actividad, se convirtió en un referente en materia de seguridad corporativa, centrándose en la protección de grandes empresas, industrias y corporaciones que son objetivos muy codiciados.
 
-**PetroKillers** surgiu em 2017 como um pequeno servidor hacker criado por um grupo de jovens ativistas. No início, realizavam ataques simples, como pichações em sites e denúncias ambientais. Com o tempo, o grupo passou a atrair membros mais experientes, que contribuíram com o desenvolvimento de malwares personalizados e a exploração de vulnerabilidades em sistemas corporativos do setor petrolífero.
 
-Conheça os Personages Jogaveis
+**PetroCais** es una empresa del sector petrolero fundada en 1982 por Pedro Corpellius, un patriota visionario decidido a explorar, producir, refinar y comercializar petróleo y sus derivados en Brasil. Su creación estuvo motivada por el deseo de fortalecer la industria energética nacional y lograr que el país fuera autosuficiente en sus necesidades energéticas.
+
+
+**PetroKillers** surgió en 2017 como un pequeño servidor de hackers creado por un grupo de jóvenes activistas. Al principio, llevaban a cabo ataques sencillos, como pintadas en sitios web y denuncias medioambientales. Con el tiempo, el grupo empezó a atraer a miembros más experimentados, que contribuyeron al desarrollo de malware personalizado y a la exploración de vulnerabilidades en los sistemas corporativos del sector petrolero.
+
+
+Conoce a los personajes jugables
 -------
 ![Personas C.A.F.E](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Personas%20C.A.F.E%201.0.png)
-**N1:** Tiago Nogueira Vatto, 20, estudante universitário do curso de Segurança da Informação. Suas tarefas diárias incluem o monitoramento de softwares SIEM e o suporte à equipe. É bem humorado e sempre fala sobre seus interesses pessoais, como jogos e anime, quando tem a oportunidade. Por trás de uma fachada comum, ele esconde um desejo de fazer a diferença.
+**N1:** Tiago Nogueira Vatto, de 20 años, estudiante universitario de Seguridad de la Información. Sus tareas diarias incluyen la supervisión de programas SIEM y la asistencia al equipo. Tiene buen humor y siempre que puede, habla de sus aficiones, como los videojuegos y el anime. Tras una apariencia corriente, esconde el deseo de marcar la diferencia.
 
-**N2:** Rafael Medina Oliveira, 29, possui mais de uma década de experiência profissional na área de suporte técnico e redes. Suas tarefas diárias incluem a resposta e solução de incidentes. Para lidar com o estresse do trabalho, ele tende a criar um universo particular em sua mente, inspirado em filmes e quadrinhos que tanto aprecia.
 
-**N3:** Eduardo Pontes Rodrigues, 34, especialista sênior em segurança cibernética, certificado OSCP e CISM. Suas tarefas diárias incluem a investigação e mitigação de ataques de segurança. Calmo sob pressão, é reservado, o que pode dificultar trabalho em equipe. Não costuma falar muito e quando o faz, usa frases curtas e objetivas.
+**N2:** Rafael Medina Oliveira, de 29 años, cuenta con más de una década de experiencia profesional en el ámbito del soporte técnico y las redes. Sus tareas diarias incluyen la respuesta y la resolución de incidentes. Para lidiar con el estrés del trabajo, suele crear un universo particular en su mente, inspirado en las películas y los cómics que tanto le gustan.
 
-**Gerente:** Raquel Garcia Hent, 43, possui MBA em Segurança Cibernética. Suas tarefas diárias incluem a coordenação e o apoio à equipe SOC, pela qual é responsável. É profissional em resolver problemas de maneira rápida e distribuir tarefas, porém tem certa dificuldade em resolver conflitos pessoais, o que a leva a situações constrangedoras.
 
-Conheça os Personages Coadjuvantes
+**N3:** Eduardo Pontes Rodrigues, de 34 años, especialista sénior en ciberseguridad, con las certificaciones OSCP y CISM. Sus tareas diarias incluyen la investigación y la mitigación de ataques a la seguridad. Se mantiene tranquilo bajo presión, pero es reservado, lo que puede dificultar el trabajo en equipo. No suele hablar mucho y, cuando lo hace, utiliza frases cortas y objetivas.
+
+
+**Directora:** Raquel García Hent, de 43 años, cuenta con un MBA en Ciberseguridad. Sus tareas diarias incluyen la coordinación y el apoyo al equipo del SOC, del que es responsable. Es experta en resolver problemas con rapidez y distribuir tareas, aunque tiene cierta dificultad para resolver conflictos personales, lo que la lleva a situaciones embarazosas.
+
+
+Conoce a los personajes secundarios
 -------
 ![Personas PetroCais](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Personas%20PetroCais%201.0.png)
 
-**Contato da PetroCais:** Gustavo Teodoro Inácio, 37, possui diploma em ciencias da computação e tem mais de 15 anos de experiencia em TI. Trabalha atualmente na PetroCais, e é responsavel por ser o ponto de contato entre a empresa e a C.A.F.E., fornecendo informações e permitindo intervenções da equipe de cibersegurança. Geralmente irritado ou exausto devido à natureza desgastante de suas funções, ele não busca fazer amizades novas no trabalho.
 
-**Relações-públicas da PetroCais:** Thayná Portalupi Avoss, 38. Formada em Comunicação Social, construiu carreira em assessorias de grandes corporações e é reconhecida por sua habilidade em gerenciar crises de imagem. Sempre mede as palavras com precisão e molda seu tom e jeito de falar de acordo com a pessoal a qual está conversando. Extremamente versátil e nunca fica sem assunto em uma conversa.
+**Persona de contacto de PetroCais:** Gustavo Teodoro Inácio, de 37 años, es licenciado en Informática y cuenta con más de 15 años de experiencia en TI. Actualmente trabaja en PetroCais y es el responsable de actuar como punto de contacto entre la empresa y la C.A.F.E., proporcionando información y facilitando las intervenciones del equipo de ciberseguridad. Por lo general, se muestra irritado o agotado debido al carácter agotador de sus funciones, y no busca entablar nuevas amistades en el trabajo.
 
-**Diretor Jurídico da PetroCais:** André Wogad, 54. Advogado com décadas de experiência em direito empresarial e petróleo, já representou a companhia em disputas internacionais complexas. Preza pela precisão jurídica e não tolera decisões precipitadas. Age com frieza mesmo sob pressão. É extremamente leal à integridade institucional da empresa.
 
-Conheça o Estilo de Narrativa
+**Responsable de relaciones públicas de PetroCais:** Thayná Portalupi Avoss, 38 años. Licenciada en Comunicación Social, ha desarrollado su carrera en departamentos de comunicación de grandes corporaciones y es reconocida por su habilidad para gestionar crisis de imagen. Siempre mide sus palabras con precisión y adapta su tono y forma de hablar en función de la persona con la que está conversando. Es extremadamente versátil y nunca se queda sin temas de conversación.
+
+
+**Director jurídico de PetroCais:** André Wogad, 54 años. Abogado con décadas de experiencia en derecho empresarial y petrolero, ha representado a la empresa en complejos litigios internacionales. Valora la precisión jurídica y no tolera las decisiones precipitadas. Actúa con serenidad incluso bajo presión. Es extremadamente leal a la integridad institucional de la empresa.
+
+
+Descubre el estilo narrativo
 -------
 ![Storyboards](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/StoryboardsNew.png)
 
-A história do jogo será contada por meio de quadrinhos, que aparecerão em momentos-chave para intensificar o impacto narrativo. Cada quadrinho será composto por uma imagem estática com uma legenda, e há a possibilidade de incluir narração em voz futuramente.
 
-O jogo também contará com momentos de múltipla escolha, nos quais o jogador tomará decisões que influenciarão diretamente o desenrolar da trama. Essas escolhas afetarão não apenas a narrativa, mas também o sistema de reputação do jogo, representado por uma bolsa de valores que reflete o desempenho da C.A.F.E. em comparação com suas concorrentes no mercado.
+La historia del juego se contará a través de viñetas, que aparecerán en momentos clave para intensificar el impacto narrativo. Cada viñeta estará compuesta por una imagen estática con un pie de foto, y existe la posibilidad de incluir narración de voz en el futuro.
+
+
+El juego también contará con momentos de elección múltiple, en los que el jugador tomará decisiones que influirán directamente en el desarrollo de la trama. Estas elecciones afectarán no solo a la narrativa, sino también al sistema de reputación del juego, representado por una bolsa de valores que refleja el rendimiento de C.A.F.E. en comparación con sus competidores en el mercado.
+
 
 ![Decision](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/DecisionNew.png)
 
-Conheça a Historia
+
+Descubre la historia
 -------
-We Got Hacked será dividido em três cenários conectados que se conectam em uma única história. Cada cenário ira abordar um tema tipico de cibersegurança.
+«We Got Hacked» se dividirá en tres escenarios interconectados que se unen en una única historia. Cada escenario abordará un tema típico de la ciberseguridad.
 
-**Pichação Ativista** No primeiro cenário, o jogador deverá coordenar as ações da equipe para conter e reparar os danos causados por um ataque de pichação realizado pelo grupo PetroKillers no site da PetroCais. Durante essa situação, o jogador aprenderá conceitos fundamentais de resposta a incidentes, como o uso de ferramentas de análise de sites, o gerenciamento de tickets e a importância de uma comunicação eficaz com o restante da equipe de segurança.
 
-**Pishing, Extorção**: No segundo cenário, o desafio será em uma escala maior. A empresa PetroCais tem seus dados criptografados pelos hackers da PetroKillers, que exigem um resgate para devolvê-los, utilizando um ataque hacker de phishing. Nesse contexto, o jogador conhecerá novos personagens; o advogado, a relações públicas e a gerente de comunicação, que terão papéis fundamentais na resolução deste incidente.
+**Grafitis activistas** En el primer escenario, el jugador deberá coordinar las acciones del equipo para contener y reparar los daños causados por un ataque de grafitis perpetrado por el grupo PetroKillers en el sitio web de PetroCais. Durante esta situación, el jugador aprenderá conceptos fundamentales de respuesta a incidentes, como el uso de herramientas de análisis de sitios web, la gestión de tickets y la importancia de una comunicación eficaz con el resto del equipo de seguridad.
 
-**Vazamento de Dados** No terceiro cenário, informações críticas de funcionários da PetroCais são vazadas na internet. O jogador deverá investigar a origem do vazamento e identificar os responsáveis. Para isso, contará com o apoio de um novo personagem jogável, especialista em análise forense e resposta a incidentes críticos.
 
-Conheça as Plataformas e Ferramentas
+**Phishing, extorsión**: En el segundo escenario, el reto será a mayor escala. Los hackers de PetroKillers han cifrado los datos de la empresa PetroCais y exigen un rescate para devolverlos, utilizando un ataque de phishing. En este contexto, el jugador conocerá a nuevos personajes: el abogado, la responsable de relaciones públicas y la directora de comunicación, que desempeñarán un papel fundamental en la resolución de este incidente.
+
+
+**Fuga de datos**: En el tercer escenario, se filtra en Internet información crítica de los empleados de PetroCais. El jugador deberá investigar el origen de la fuga e identificar a los responsables. Para ello, contará con el apoyo de un nuevo personaje jugable, especialista en análisis forense y respuesta a incidentes críticos.
+
+
+Descubre las plataformas y herramientas
 -------
 ![Softwares](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Softwares.png)
 
-Em We Got Hacked o jogador ira aprender a utilizar diversas ferramentas comumente utilizadas no dia a dia em uma empresa de cibersegurança. A baixo, algumas ferramentas que estão presentes no jogo. 
 
-**Anexus Mail:** software de leitura e envio de e-mails. O jogador receberá diversas mensagens ao longo da história do jogo, contendo escolhas importantes de respostas, que influenciarão o desenrolar da narrativa.
+En «We Got Hacked», el jugador aprenderá a utilizar diversas herramientas que se usan normalmente en el día a día de una empresa de ciberseguridad. A continuación, se enumeran algunas de las herramientas que aparecen en el juego.
 
-**Tick Task:** software de gerenciamento de tarefas em incidentes, que orienta o jogador passo a passo sobre como lidar com cada situação de ataque hacker. Funciona de maneira semelhante a um quadro de missões.
 
-**SIEMtinel:** software de cibersegurança utilizado para analisar alertas de possíveis ataques hackers. Esses alertas trarão informações cruciais que ajudarão o jogador a determinar se representam uma ameaça real ou não.
+**Anexus Mail:** software para leer y enviar correos electrónicos. El jugador recibirá varios mensajes a lo largo de la historia del juego, con opciones de respuesta importantes que influirán en el desarrollo de la trama.
 
-Estado de Desenvolvimento
+
+**Tick Task:** software de gestión de tareas en incidentes, que guía al jugador paso a paso sobre cómo afrontar cada situación de ataque de hackers. Funciona de manera similar a un menu de misiones.
+
+
+**SIEMtinel:** software de ciberseguridad utilizado para analizar alertas de posibles ataques de hackers. Estas alertas proporcionarán información crucial que ayudará al jugador a determinar si representan una amenaza real o no.
+
+
+Estado de desarrollo
 -------
 ![desktop-soc](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/SOC%203.0.png)
-We Got Hacked iniciou sua produção em janeiro de 2025, com previsão de conclusão para dezembro do mesmo ano. Atualmente (outubro) estamos implementando o ultimo cenario do jogo. Logo apos, em novembro e dezembro faremos testes e refinamentos finais.
+We Got Hacked comenzó su producción en enero de 2025 y se prevé que esté terminado en diciembre de ese mismo año. Actualmente (octubre) estamos implementando el último escenario del juego. Justo después, en noviembre y diciembre, realizaremos las pruebas y los últimos retoques.
 
-Conheça a Equipe 
+
+Conoce al equipo
 -------
-![Equipe-Desenvolvimento](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Membros%20Atomic%20Rocket%20v4.png)
-| Nome | Função | Período de Participação |
+![Equipe-Desarrollo](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/Membros%20Atomic%20Rocket%20v4.png)
+| Nombre | Cargo | Periodo de participación |
 |----|----|----|
-| [Bernardo Klein](https://www.linkedin.com/in/bernardo-klein-a393262b7/) | Artista 2D e 3D | 01/2025 - 12/2025 | 
-| [Frank V. Vega](https://www.linkedin.com/in/frank-vega-24a721282/) | Artista 2D e 3D | 02/2026 - Presente |
-| [Igor Flores](https://www.linkedin.com/in/igorflores96/) | Desenvolvedor | 01/2025 - 02/2026 |
-| [Jairo A. de C. Augusto](https://www.artstation.com/jairoaugusto13) | Roteirista | 01/2025 - Presente |
-| [Luciano Ignaczak](https://www.linkedin.com/in/luciano-ignaczak/) | Coordenador Acadêmico | 01/2025 - Presente |
-| [Mauricio B. Gehling](https://www.linkedin.com/in/mbg3dmind/) | Coordenador de Desenvolvimento | 01/2025 - Presente |
-| [Nicolay Hoff](https://www.linkedin.com/in/nicolayhoff/) | Desenvolvedor | 04/2026 - Presente |
-| [Rodrigo Steigleder](https://www.linkedin.com/in/rodrigosteigleder/) | Analista de Segurança | 01/2025 - Presente |
-| [Tiago U. Gazzola](https://www.linkedin.com/in/tiago-gazzola/) | Designer | 01/2025 - Presente |
+| [Bernardo Klein](https://www.linkedin.com/in/bernardo-klein-a393262b7/) | Artista 2D y 3D | 01/2025 - 12/2025 |
+| [Frank V. Vega](https://www.linkedin.com/in/frank-vega-24a721282/) | Artista 2D y 3D | 02/2026 - Presente |
+| [Igor Flores](https://www.linkedin.com/in/igorflores96/) | Desarrollador | 01/2025 - 02/2026 |
+| [Jairo A. de C. Augusto](https://www.artstation.com/jairoaugusto13) | Guionista | 01/2025 - Presente |
+| [Luciano Ignaczak](https://www.linkedin.com/in/luciano-ignaczak/) | Coordinador Académico | 01/2025 - Presente |
+| [Mauricio B. Gehling](https://www.linkedin.com/in/mbg3dmind/) | Coordinador de Desarrollo | 01/2025 - Presente |
+| [Nicolay Hoff](https://www.linkedin.com/in/nicolayhoff/) | Desarrollador | 04/2026 - Presente |
+| [Rodrigo Steigleder](https://www.linkedin.com/in/rodrigosteigleder/) | Analista de Seguridad | 01/2025 - Presente |
+| [Tiago U. Gazzola](https://www.linkedin.com/in/tiago-gazzola/) | Diseñador | 01/2025 - Presente |
+
 
 ![logo-atomic](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/logo-atomic.png)
 ![logo-rnp](https://github.com/AtomicRocketEntertainment/We-Got-Hacked/blob/main/Imagens/logo-rnp-branco.png)
+
+
+
