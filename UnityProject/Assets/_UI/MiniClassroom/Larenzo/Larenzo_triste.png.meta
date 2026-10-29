@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: 2ad7034c17564f64ab9dd283f5f8b744
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6712468097546891088
+    second: Larenzo_triste_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -121,7 +124,29 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Larenzo_triste_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1434
+        height: 1570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0539754d588d2a0800000000000000
+      internalID: -6712468097546891088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []

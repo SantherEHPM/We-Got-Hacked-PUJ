@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: af6a1c056d732eb419da15c2eccbcef6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -295254534167386858
+    second: Slides_A.U.L.A._02.pptx-17_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -121,7 +124,29 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Slides_A.U.L.A._02.pptx-17_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4288
+        height: 2412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61521a4c09b07ebf0800000000000000
+      internalID: -295254534167386858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []

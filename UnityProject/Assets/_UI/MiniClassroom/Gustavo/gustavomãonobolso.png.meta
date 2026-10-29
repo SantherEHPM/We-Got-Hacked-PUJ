@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: 4c0c4529728f5d947a577d4af275f16c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1785332678351184486
+    second: "gustavom\xE3onobolso_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -121,7 +124,29 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "gustavom\xE3onobolso_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1434
+        height: 1570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662e403ac96c6c810800000000000000
+      internalID: 1785332678351184486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []

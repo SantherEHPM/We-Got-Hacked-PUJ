@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: bf4e9d4b95dcaec4cace3fcff5a2ede1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7203176438798318377
+    second: New_Cutscene_1_3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,7 +111,29 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: New_Cutscene_1_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1683
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d486f6613d290c90800000000000000
+      internalID: -7203176438798318377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
