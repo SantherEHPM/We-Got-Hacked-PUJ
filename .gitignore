@@ -45,11 +45,11 @@
 # Caché de FMOD Studio (siempre regenerable)
 /UnityProject/FMOD/.cache/
 
-# Bancos de audio .bank compilados desde FMOD Studio (60MB, regenerables).
-# Cubre subcarpetas p. ej. Build/Desktop/*.bank y sus .meta.
-# Si tu equipo PREFIERE versionarlos para no recompilar, comenta estas líneas:
-/UnityProject/FMOD/Build/**/*.bank
-/UnityProject/FMOD/Build/**/*.bank.meta
+# Bancos de audio .bank compilados desde FMOD Studio (~60MB).
+# SE VERSIONAN A PROPÓSITO: el juego no arranca sin ellos al clonar el repo
+# en otro equipo (no todo el mundo tiene FMOD Studio para recompilar).
+# No volver a ignorar /UnityProject/FMOD/Build/.
+# (Se mantiene ignorado solo el caché: /UnityProject/FMOD/.cache/)
 
 # ---------- IDEs y editores ----------
 .vs/
