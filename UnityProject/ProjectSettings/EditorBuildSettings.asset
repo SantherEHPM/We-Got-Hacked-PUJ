@@ -62,5 +62,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ExtraEndingCutscene.unity
     guid: b2a567d340e026447960c125d3e2b985
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: b248869eb91176cc2a5cb3146ab33e55,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 773e782ee8a68faf9a267732f3d314ca,
+      type: 2}
   m_UseUCBPForAssetBundles: 0
